@@ -34,7 +34,7 @@ Copy code
 
 1. Clone the repository:
 ```bash
-git clone YOUR_GITHUB_REPO_LINK>](https://github.com/KishoreKumarGoud/TOODLE-TOPICSEARCH.git
+git clone <YOUR_GITHUB_REPO_LINK>
 Navigate to the project folder:
 
 bash
@@ -81,5 +81,5 @@ Explanation of filtering logic
 
 Video location in repo: video/topic-search-demo.mp4
 
-GitHub Repository:(https://github.com/KishoreKumarGoud/TOODLE-TOPICSEARCH.git)
+GitHub Repository
 Access the project here
