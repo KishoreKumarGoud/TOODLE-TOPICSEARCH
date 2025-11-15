@@ -34,7 +34,7 @@ Copy code
 
 1. Clone the repository:
 ```bash
-git clone YOUR_GITHUB_REPO_LINK>](https://github.com/KishoreKumarGoud/TOODLE-TOPICSEARCH.git
+git clone https://github.com/KishoreKumarGoud/TOODLE-TOPICSEARCH.git
 Navigate to the project folder:
 
 bash
